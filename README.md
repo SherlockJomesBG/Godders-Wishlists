@@ -7,7 +7,7 @@ Plan events, build wishlists, and share with friends and family — all without 
 
 ---
 
-![Godders Wishlist Screenshot](https://your-screenshot-url.com)
+![Godders Wishlist Screenshot](Screenshot_20250730_120927.png)
 
 ---
 
