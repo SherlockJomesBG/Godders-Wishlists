@@ -67,7 +67,9 @@ Use it for:
 
 ## 📸 Sneak Peek
 
-> *(Add screenshots of dashboard, wishlist view, share screen, etc. here)*
+![Register View](Screenshot_20250730_120944.png)
+![Login View](Screenshot_20250730_120959.png)
+![Create Wishlist View](Screenshot_20250730_121023.png)
 
 ---
 
